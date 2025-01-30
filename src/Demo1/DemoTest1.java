@@ -4,5 +4,8 @@ public class DemoTest1 {
 	public static void main(String args []) {
 		System.out.println("Java");
 	}
+	
+	String place = "home";
 System.out.println("home sweet home");
+
 }
